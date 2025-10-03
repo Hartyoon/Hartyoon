@@ -1,5 +1,5 @@
 # 💫 About Me:
-name: "Hi there 👋" about: | 🔭 I’m currently working on a **dashboard web application** for the RUB Motorsport race car display, giving drivers access to real-time performance stats and system error monitoring. 🌱 I’m currently learning **SQL, embedded microcontroller programming, and web design** to combine hardware data with a clean, usable front end. 💬 Ask me about what it’s like to **contribute to building a competitive student motorsport car** from the inside out. 📚 I also like experimenting with less common frameworks and tools to broaden my problem-solving approaches.
+"Hi there 👋" about: | 🔭 I’m currently working on a **dashboard web application** for the RUB Motorsport race car display, giving drivers access to real-time performance stats and system error monitoring. 🌱 I’m currently learning **SQL, embedded microcontroller programming, and web design** to combine hardware data with a clean, usable front end. 💬 Ask me about what it’s like to **contribute to building a competitive student motorsport car** from the inside out. 
 
 
 ## 🌐 Socials:
